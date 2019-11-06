@@ -6,8 +6,8 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'CodeChung',
-    author: 'Harry Chung'
+    title: 'YC Mentoring',
+    author: 'Young Chung'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
